@@ -25,6 +25,12 @@ Remote persistent keylogger for Windows and Linux.
 
 6. after that you need gmail account and before anything make sure you turn it on lesssecureapps
    to do so use this link https://myaccount.google.com/lesssecureapps
+   
+   PROBLEMS SOLVED+++++
+   guys i receives some problems during installation if u have any problem with this tool solve by open install.sh using your notepad then copy and paste those command .
+   
+   note 
+   dont forget to give it permission "python-2.7.14.msi" in root/opt 
 
 
 # usage 
